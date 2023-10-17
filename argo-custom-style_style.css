@@ -6,7 +6,7 @@ body{
     content: url(https://raw.githubusercontent.com/portx-testcu/argocdui/main/PortX-Logo-TwoColor.png);
 }
 .top-bar{
-    background: #232222;
+    background: #d42626;
 }
 .top-bar__breadcrumbs{
     color: white;
